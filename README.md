@@ -82,11 +82,13 @@ GOOGLE_API_KEY=your_api_key_here
 bash
 Copy code
 streamlit run app.py
-📸 Screenshots
-🟦 Home Screen
+## 📸 Screenshots
 
+### 🟦 Home Screen
+![Home Screen](images/home.png)
 
-🟦 Chat Interface
+### 🟦 Chat Interface
+![Chat Interface](images/chat.png)
 
 
 🗂️ Project Structure

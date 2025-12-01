@@ -61,7 +61,7 @@ Automatically identifies the category of a user's message and routes it to the c
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/Employee-Onboarding-Assistant.git
+git clone https://github.com/venu-chandaka/Employee-Onboarding-Assistant.git
 cd Employee-Onboarding-Assistant
 ```
 2️⃣ Install Dependencies
